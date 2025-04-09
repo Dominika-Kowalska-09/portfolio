@@ -15,4 +15,5 @@ Wykorzystane biblioteki:
 - numpy
 - matplotlib
 - sklearn
+
 W wyznaczonym miejscu ('...') należy wsawić własną ścieżkę do pobranego pliku csv z danymi.
