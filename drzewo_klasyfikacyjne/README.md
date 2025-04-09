@@ -9,6 +9,7 @@ Zakres analizy:
 - trenowanie modelu drzewa decyzyjnego
 - wizualizacja struktury drzewa
 - ocena skuteczności modelu
+
 Wykorzystane biblioteki:
 - pandas
 - numpy
